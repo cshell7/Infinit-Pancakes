@@ -2,6 +2,8 @@
 
 A code challenge by Calvin Shell
 
+View it [here](https://cshell7.github.io/pancakes-revenge/)
+
 _This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)._
 
 ---
