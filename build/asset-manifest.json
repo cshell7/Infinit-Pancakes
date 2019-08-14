@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pancakes-revenge/static/css/main.65e35616.chunk.css",
+    "main.js": "/pancakes-revenge/static/js/main.50ac654b.chunk.js",
+    "main.js.map": "/pancakes-revenge/static/js/main.50ac654b.chunk.js.map",
+    "runtime~main.js": "/pancakes-revenge/static/js/runtime~main.c4b9c7b7.js",
+    "runtime~main.js.map": "/pancakes-revenge/static/js/runtime~main.c4b9c7b7.js.map",
+    "static/js/2.c358ba6c.chunk.js": "/pancakes-revenge/static/js/2.c358ba6c.chunk.js",
+    "static/js/2.c358ba6c.chunk.js.map": "/pancakes-revenge/static/js/2.c358ba6c.chunk.js.map",
+    "index.html": "/pancakes-revenge/index.html",
+    "precache-manifest.e5dd8614bbc7e73f49a587f79f2a948d.js": "/pancakes-revenge/precache-manifest.e5dd8614bbc7e73f49a587f79f2a948d.js",
+    "service-worker.js": "/pancakes-revenge/service-worker.js",
+    "static/css/main.65e35616.chunk.css.map": "/pancakes-revenge/static/css/main.65e35616.chunk.css.map"
+  }
+}
